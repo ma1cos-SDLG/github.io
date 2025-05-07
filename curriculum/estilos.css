@@ -1,0 +1,15 @@
+body{
+      text-align: center;
+}
+header p{
+    color:grey
+}
+section{
+     margin-bottom: 25px;
+
+
+}
+h2{
+    color:lightsteelblue;
+    border-bottom: 1PX solid #ccc;
+}
